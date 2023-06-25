@@ -66,7 +66,7 @@ public class Main {
         } else if (s.average >= 40) {
             s.grade = "Congrats!! Pass ";
         } else {
-            s.grade = "Fail";
+            s.grade = "Fail!! try later please";
         }
     }
 
