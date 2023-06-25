@@ -58,7 +58,7 @@ public class Main {
 
     static void calculateGrade(Student s) {
         if (s.average >= 75) {
-            s.grade = "Distinction";
+            s.grade = "Congratulations";
         } else if (s.average >= 60) {
             s.grade = "First";
         } else if (s.average >= 50) {
